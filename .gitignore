@@ -1,0 +1,6 @@
+/target/
+.DS_Store
+*.gguf
+*.bin
+__pycache__/
+*.pyc
